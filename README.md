@@ -1,21 +1,34 @@
-# fire_guard
+# 河南豫泽消防科技有限公司简介
 
-> A Vue.js project
+## 联系方式
+- **电话**: 13674961496
+- **邮箱**: 1844167849@qq.com
+- **服务时间**: 7x24小时
 
-## Build Setup
+## 公司使命
+致力于通过创新和卓越的服务，为社会创造更安全的生活环境。
 
-``` bash
-# install dependencies
-npm install
+## 智能消防数据平台
+- **名称**: Smart Fire Safety Data Platform
+- **特点**: 用户友好的自助工具，适用于各类用户，包括普通居民和专业消防安全从业者。
+- **功能**: 轻松设计符合专业标准的消防安全系统，支持单页站点和专业公司安全页面的创建。
 
-# serve with hot reload at localhost:8080
-npm run dev
+## 服务项目
+- **尚文幼儿园**: 消防设施检测
+- **郑州网络安全科技馆**: 消防设施检测服务
+- **河南康恩汽车工业园**: 消防设施检测服务
+- **高新区贾庄棚户区改造住宅项目**: 消防设施检测服务
+- **中益七禧消防评定项目**: 消防评定服务
+- **郑州市天健湖智联产业园南区项目**: 消防设施检测服务
+- **西湖小学项目**: 消防技术评估服务
+- **榆林安置区项目**: 消防设施检测服务
+- **郑州三磨超硬材料有限公司**: 消防设施检测服务
 
-# build for production with minification
-npm run build
+## 选择我们的理由
+1. **完善的设施**: 拥有现代声、光、电、温湿度、压力、流量、流速、风速等检测设备。
+2. **独特的理念**: 以“客观细致、服务至上”为要求，提供热情的服务态度、优质的工作质量、合理的收费标准和高效的工作效率。
+3. **强大的专家团队**: 由注册消防工程师和各类消防专业技术人员组成的专业队伍，具备系统的专业理论知识和丰富的实践经验。
+4. **绝对的施工标准**: 依据国家现行规范标准提供服务。
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 公司地址
+郑州市高新区河阳路186号11号楼4楼
